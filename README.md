@@ -1,3 +1,4 @@
+# 🛡️ Vulnerable PyFlaSQL - Security Lab
 This project is an intentionally vulnerable web application built with Python and Flask. It was developed as part of a hands-on security lab to demonstrate and explore three common web vulnerabilities from the [OWASP Top 10](https://owasp.org/www-project-top-ten):
 
 - SQL Injection (A03:2021)
